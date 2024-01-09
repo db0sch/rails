@@ -1,3 +1,7 @@
+*   Remove deprecated `:pool_size` and `:pool_timeout` options for the cache storage.
+
+    *Rafael Mendonça França*
+
 *   Support `hexBinary` type in `ActiveSupport::XmlMini`.
 
     *heka1024*
